@@ -5,7 +5,7 @@ I'm an Applied Computing student at Nottingham Trent, passionate about creating 
 # About Me
 - 🎓 Currently pursuing a BSc in Applied Computing
 - 💻 Specialising in web technologies (HTML, CSS, JavaScript, SQL)
-- 🔍 Seeking a year-long industry placement for 2025-2026
+- 🔍 Seeking a year-long industry placement for 2026-2027
 - 🚀 Eager to apply classroom knowledge to real-world projects
 
 # What I Bring
